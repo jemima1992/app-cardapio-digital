@@ -20,6 +20,7 @@ export class CarrinhoPage implements OnInit {
     cidade: null,
     complemento: "",
     numero: null,
+    telefone:null,
     troco: "",
     pagamentos: [
      {
